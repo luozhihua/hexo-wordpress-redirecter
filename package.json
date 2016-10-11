@@ -1,0 +1,13 @@
+{
+  "name": "hexo-wordpress-redirecter",
+  "version": "1.0.0",
+  "description": "redirect wordpress posts to hexo posts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
